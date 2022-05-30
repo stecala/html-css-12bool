@@ -1,0 +1,18 @@
+.black{
+    background-color: black;
+    height: 40px;
+}
+.gray{
+    background-color: gray;
+    height: 40px;
+}
+.height100{
+    height: 100vh;
+}
+h1{
+    padding: 50px;
+    text-align: center;
+}
+body{
+    min-width: 1420px;
+}
