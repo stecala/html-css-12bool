@@ -1,0 +1,11 @@
+[class*="col-"] {
+    background-color: lightseagreen;
+    color: white;
+    border: 1px solid black;
+ }
+.row div > div{
+    background-color: lightgreen;
+}
+.margin-bot{
+    margin-bottom: 20px;
+}
